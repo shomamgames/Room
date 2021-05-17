@@ -1,0 +1,16 @@
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\Room.exe
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\Room.deps.json
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\Room.runtimeconfig.json
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\Room.runtimeconfig.dev.json
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\Room.dll
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\ref\Room.dll
+C:\Users\001\source\repos\Room\Room\bin\Debug\net5.0\Room.pdb
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.csprojAssemblyReference.cache
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.AssemblyInfoInputs.cache
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.AssemblyInfo.cs
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.csproj.CoreCompileInputs.cache
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.dll
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\ref\Room.dll
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.pdb
+C:\Users\001\source\repos\Room\Room\obj\Debug\net5.0\Room.genruntimeconfig.cache
